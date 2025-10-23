@@ -1,0 +1,13 @@
+NLProfileMerge - Bugs & ToDo
+
+Bug: local counts are wrong
+ToDo: indicate added specifically; can't tell the difference between added and a call that has only updates to blank fields
+Bug: no commit button on analyze page
+Bug/ToDo: get rid of legacy/grouped choice or make it work
+Bug: either make group/legacy toggle work, or get rid of it
+
+ToDo: factor out common parts of the three pages for easier maintenance 
+
+Bug: If I click any of the buttons, All, Cloud will change, Local will change, I get an error about specifying a local file and I'm logged out.
+Bug: Counts only count cloud changes, not local changes
+Bug: There is a "reason" circle-i only for cloud changes, not for local changes.
